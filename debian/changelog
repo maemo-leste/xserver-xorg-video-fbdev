@@ -1,3 +1,9 @@
+xserver-xorg-video-fbdev (1:0.4.0-180) unstable; urgency=medium
+
+  * enable git builds
+
+ -- Ivan J. <parazyd@dyne.org>  Sat, 30 Dec 2017 22:32:00 +0100
+
 xserver-xorg-video-fbdev (1:0.4.0-180+0m6) hardy; urgency=low
 
   * Add PowerVR header files required to allow this to build
